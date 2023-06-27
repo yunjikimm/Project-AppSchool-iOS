@@ -10,3 +10,5 @@
 | [MultiChoiceGameUIKit](./MultiChoiceGameUIKit) | 4지선다 사람의 수 맞추기 게임 | practice | ✅ |  |
 | [MultiChoiceGameSwiftUI](./MultiChoiceGameSwiftUI) | 4지선다 사람의 수 맞추기 게임 | practice |  | ✅ |
 | [PerfectMBTI](./PerfectMBTI) | 나의 MBTI와 최고/최악의 궁합 MBTI 테스트 게임 | study |  | ✅ |
+| [RockPaperScissorsUIKit](./RockPaperScissorsUIKit) | 가위바위보 게임 | practice | ✅ |  |
+| [RockPaperScissorsSwiftUI](./RockPaperScissorsSwiftUI) | 가위바위보 게임 | practice |  | ✅ |
