@@ -12,3 +12,4 @@
 | [PerfectMBTI](./PerfectMBTI) | 나의 MBTI와 최고/최악의 궁합 MBTI 테스트 게임 | study |  | ✅ |
 | [RockPaperScissorsUIKit](./RockPaperScissorsUIKit) | 가위바위보 게임 | practice | ✅ |  |
 | [RockPaperScissorsSwiftUI](./RockPaperScissorsSwiftUI) | 가위바위보 게임 | practice |  | ✅ |
+| [TourSpotDictionarySwiftUI](./TourSpotDictionarySwiftUI) | NavigationLink을 이용하여 View 이동 구현 | practice |  | ✅ |
