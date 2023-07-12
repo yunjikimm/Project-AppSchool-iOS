@@ -15,3 +15,4 @@
 | [TourSpotDictionarySwiftUI](./TourSpotDictionarySwiftUI) | NavigationLink을 이용하여 View 이동 구현 | practice |  | ✅ |
 | [CalculatorKit](./CalculatorKit) | Closure 함수를 이용하여 사칙연산 계산기 로직 구현 | practice | ✅ |  |
 | [AgeCalculatorSwiftUI](./AgeCalculatorSwiftUI) | NavigationLink와 DatePicker를 이용하여 만 나이 계산 로직 구현 | practice |  | ✅ |
+| [MemoStickersSwiftUI](./MemoStickersSwiftUI) | Combine의 ObservableObject 프로토콜을 이용하여 CRUD 메모앱 구현 | practice |  | ✅ |
