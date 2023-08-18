@@ -16,3 +16,5 @@
 | [CalculatorKit](./CalculatorKit) | Closure 함수를 이용하여 사칙연산 계산기 로직 구현 | practice | ✅ |  |
 | [AgeCalculatorSwiftUI](./AgeCalculatorSwiftUI) | NavigationLink와 DatePicker를 이용하여 만 나이 계산 로직 구현 | practice |  | ✅ |
 | [MemoStickersSwiftUI](./MemoStickersSwiftUI) | Combine의 ObservableObject 프로토콜을 이용하여 CRUD 메모앱 구현 | practice |  | ✅ |
+| [TourPhotoGallery](./TourPhotoGallery) | JSON 형태의 공공데이터를 이용하여 전국 관광사진 리스트 앱 구현 | practice |  | ✅ |
+| [LoginDemowithFirebase](./LoginDemowithFirebase) | Firebase의 Auth를 이용하여 Google 로그인 구현 | practice |  | ✅ |
